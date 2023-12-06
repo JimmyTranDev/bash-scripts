@@ -1,2 +1,1 @@
-git add -N .
-git add -p
+source venv/bin/activate
